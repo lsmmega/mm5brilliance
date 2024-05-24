@@ -1,5 +1,6 @@
 incsrc .\scripts\ines.asm
 incsrc header.asm
+incsrc definitions.asm
 prg_bank = 0
 base $8000
 pad $a000
