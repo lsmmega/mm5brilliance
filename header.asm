@@ -1,4 +1,4 @@
-;mm5billirance_header_information
+;mm5brilliance_header_information
 ;version = ines
 	prg_rom_units = 64
 	chr_rom_units = 128
