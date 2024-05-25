@@ -23,5 +23,6 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 * Change mapper to MMC5 and extand ROM size to 2MB.
 * Optimize running.
 * Switch weapon with 2nd controllor.
+* Custom music engine.
 * New Music.
 * Others (TODO).
