@@ -20,9 +20,14 @@ make
 
 Note: You can download source code from code, download and unzip it, then `cd` and `make` from the correct directory in the Cygwin Terminal.
 ## Features (TODO)
-* Change mapper to MMC5 and extand ROM size to 2MB.
+* Add charge bar.
+* Add switch weapon with the 2nd controller.
+* Customer music engine.
+* Larger ROM size.
+* Mapper is changed to MMC5.
+* Music track is up to 255.
+* New level design.
+* New graphic.
+* New music.
 * Optimize running.
-* Switch weapon with 2nd controllor.
-* Custom music engine.
-* New Music.
 * Others (TODO).
