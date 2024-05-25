@@ -26,7 +26,7 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 * Larger ROM size.
 * Mapper is changed to MMC5.
 * Music data can be read each 8kb PRG bank.
-* Music track is up to 255.
+* Music track is allowed to 255.
 * New level design.
 * New graphic.
 * New music.
