@@ -25,6 +25,7 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 * Customer music engine.
 * Larger ROM size.
 * Mapper is changed to MMC5.
+* Music data can be read the whole PRG area.
 * Music track is up to 255.
 * New level design.
 * New graphic.
