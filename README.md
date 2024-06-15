@@ -30,6 +30,6 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 * New level design.
 * New graphic.
 * New music.
-* New music commands and notes table.
+* New music commands, lengths and notes table.
 * Optimize running.
 * Others (TODO).
