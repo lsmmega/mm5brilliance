@@ -22,7 +22,7 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 ## Features (TODO)
 * Add charge bar.
 * Add switch weapon with the 2nd controller.
-* Customer music engine.
+* Custom music engine.
 * Larger ROM size.
 * Mapper is changed to MMC5.
 * Music data can be read each 8kb PRG bank.
@@ -30,5 +30,6 @@ Note: You can download source code from code, download and unzip it, then `cd` a
 * New level design.
 * New graphic.
 * New music.
+* New music commands and notes table.
 * Optimize running.
 * Others (TODO).
