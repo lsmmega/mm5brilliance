@@ -3,7 +3,7 @@ This is a romhack of Mega Man 5, be based on [Disassembly of Mega Man 5](https:/
 
 This is a WIP work, But I'll make it like as title a long time or many years, Include lots of improvement and additional custom.
 
-Code is based on [ASM6](https://github.com/parasyte/asm6) assembler and other tools (TODO).
+Code is based on [ASM6](https://github.com/parasyte/asm6) assembler and other tools (TODO) written.
 ## Download, Build and Play
 If you just played it, Please download the patch from release (TODO) and patch to the correct ROM. To build the ROM from source code, follow the instruction.
 ## Build instruction (TODO)
